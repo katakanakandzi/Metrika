@@ -1,0 +1,68 @@
+body{
+ font-family:"Manrope";
+ background: #F5F5F5;
+}
+h1{
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 1;
+    margin-bottom: 30px;
+    letter-spacing: -0.03em;
+    
+}
+.first-layer p{
+    font-weight: 400;
+    font-size: 20px;
+    color: white;
+    padding-left: 40px;
+    padding-right: 680px;
+    padding-bottom: 40px;
+    padding-top: 379px;
+    width: 430px;
+    height: 81px;
+    letter-spacing: -0.03em;
+
+}
+.first-layer{
+    width: 1150px;
+    height: 500px;
+    background-image: url(../resources/image-for-text.png);
+    margin-bottom: 150px;
+}
+
+.about-as{
+    font-weight: 400;
+    font-size: 18px;
+    text-transform: uppercase;
+    color: black;
+    margin-bottom: 30px;
+    line-height: 25px;
+    letter-spacing: -0.03em;
+   
+}
+.second-text p{
+    font-weight: 400;
+    font-size: 45px;
+    margin-bottom: 30px;
+    letter-spacing: -0.03em;
+    line-height: 61px;
+}
+a{
+    border-radius: 5px;
+    padding: 20px 40px;
+    width: 255px;
+    height: 67px;
+    color:white;
+    background-color:#AD1818;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 400;
+}
+.container{
+    width: 1150px;
+    height: 650px;
+    margin: 0 auto;
+    padding: 0 15px;
+    max-width: 1180px;
+    box-sizing: border-box;
+}
