@@ -195,7 +195,7 @@ body{
 }
 .services{
     width: 1400px;
-    height: 1844px;
+    
     background-color: black;
     
     
@@ -209,7 +209,7 @@ body{
     color: #fff;
    padding-top: 151px;
    padding-left: 127px;
-   
+   padding-bottom: 34px;
 
 }
 
@@ -217,22 +217,21 @@ body{
 
 .plan-solution{
     width: 1150px;
-    height: 326px;
+    
     margin-left: 125px;
     margin-right: 125px;
+    margin-top: 210px;
     
 }
 .plan-solution img{
     width: 1150px;
-    height: 270px;
+    
   
     
 }
 .plan-solution p{
-    width: 541px;
-    height: 41px;
-    padding-right: 731px;
-    padding-left: 128px;
+    
+    margin-top: 15px;
     font-weight: 400;
     font-size: 30px;
     letter-spacing: -0.03em;
