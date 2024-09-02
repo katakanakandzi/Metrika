@@ -1,0 +1,240 @@
+body{
+    font-family: "Manrope", sans-serif;
+
+}
+.first-block{
+    width: 1150px;
+    height: 650px;
+    margin-left: 125px;
+    margin-top: 128px;
+    margin-right: 319px;
+    background-size: cover;
+  
+}
+.first-block h1{
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 100%;
+    letter-spacing: -0.03em;
+    width: 956px;
+    height: 120px;
+    margin-bottom: 30px;
+}
+.image-text{
+    background-image: url('../resoursces/vstuplenie.png');
+    width: 1150px;
+    height: 500px;
+}
+.image-text p{
+    font-weight: 400;
+    font-size: 20px;
+    letter-spacing: -0.03em;
+    color: #fff;
+    width: 430px;
+    height: 81px;
+    padding-left: 40px;
+    padding-top: 379px;
+    padding-right: 680px;
+    padding-bottom: 40px;
+}
+
+.about{
+    width: 1051px;
+    height: 518px;
+    margin-top: 150px;
+    margin-left: 125px;
+    margin-right: 224px;
+}
+.about h3{
+    font-weight: 400;
+    font-size: 18px;
+    letter-spacing: -0.03em;
+    text-transform: uppercase;
+    padding-bottom: 30px;
+    padding-right: 1000px;
+}
+.about h2{
+    font-weight: 400;
+    font-size: 45px;
+    letter-spacing: -0.03em;
+    width: 1048px;
+    height: 366px;
+}
+.about a{
+    border-radius: 5px;
+    padding: 20px 40px;
+    width: 255px;
+    height: 67px;
+    background-color:  #ad1818;
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 20px;
+    letter-spacing: -0.03em;
+    color: #fff;
+    
+}
+.projects{
+    width: 1150px;
+    height: 2122px;
+    margin-top: 133px;
+    margin-left: 125px;
+    margin-right: 125px;
+    margin-bottom: 162px ;
+}
+.projects h3{
+    font-weight: 400;
+    font-size: 18px;
+    letter-spacing: -0.03em;
+    text-transform: uppercase;
+    padding-right: 1071px;
+    padding-bottom: 30px;
+    width: 79px;
+    height: 25px;
+}
+.right-bank{
+    margin-bottom: 90px;
+    width: 1150px;
+    height: 548px;
+}
+.right-bank img{
+    width: 1150px;
+    height: 450px;
+
+
+}
+.right-bank h2{
+    padding-top: 15px;
+    font-weight: 400;
+    font-size: 30px;
+    letter-spacing: -0.03em;
+    
+}
+.right-bank p{
+    font-weight: 400;
+    font-size: 20px;
+    letter-spacing: -0.03em;
+    color: #ad1818;
+    padding-top: 15px; 
+}
+.Nordway-park{
+    width: 1150px;
+    height: 548px;
+}
+.Nordway-park img{
+    width: 1150px;
+    height: 450px;
+}
+.Nordway-park h2{
+    font-weight: 400;
+    font-size: 30px;
+    letter-spacing: -0.03em;
+    padding-top: 15px;
+}
+.Nordway-park p{
+    font-weight: 400;
+    font-size: 20px;
+    letter-spacing: -0.03em;
+    color: #ad1818;
+    padding-top: 15px
+}
+.pine-lake{
+    margin-top: 90px;
+    width: 1150px;
+    height: 548px;
+    margin-bottom: 90px;
+}
+.pine-lake img{
+    width: 1150px;
+    height: 450px;
+
+}
+.pine-lake h2{
+    font-weight: 400;
+    font-size: 30px;
+    letter-spacing: -0.03em;
+    padding-top: 15px;
+}
+.pine-lake p{
+    font-weight: 400;
+    font-size: 20px;
+    letter-spacing: -0.03em;
+    color: #ad1818;
+    padding-top: 15px
+}
+.ref{
+    width: 1150px;
+    height: 153px;
+    
+    
+    margin-top: 90px;
+}
+.ref p{
+    font-weight: 400;
+    font-size: 30px;
+    letter-spacing: -0.03em;
+    text-align: center;
+    padding-top: 56px;
+    padding-bottom: 56px;
+    color: #ad1818;
+}
+.ref a{
+    display: block;
+    border: 1px solid #ad1818;
+    border-radius: 5px;
+    width: 1150px;
+    height: 153px;
+    text-decoration: none;
+    
+}
+.ref a:hover{
+   
+    background-color: #ad1818;
+}
+.ref p:hover{
+    color: #fff;
+}
+.services{
+    width: 1400px;
+    height: 1844px;
+    background-color: black;
+    
+    
+}
+
+.services h3{
+    font-weight: 400;
+    font-size: 18px;
+    letter-spacing: -0.03em;
+    text-transform: uppercase;
+    color: #fff;
+   padding-top: 151px;
+   padding-left: 127px;
+   
+
+}
+
+   
+
+.plan-solution{
+    width: 1150px;
+    height: 326px;
+    margin-left: 125px;
+    margin-right: 125px;
+    
+}
+.plan-solution img{
+    width: 1150px;
+    height: 270px;
+  
+    
+}
+.plan-solution p{
+    width: 541px;
+    height: 41px;
+    padding-right: 731px;
+    padding-left: 128px;
+    font-weight: 400;
+    font-size: 30px;
+    letter-spacing: -0.03em;
+    color: #fff;
+}
